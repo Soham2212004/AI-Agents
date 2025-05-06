@@ -2,38 +2,6 @@
 
 A collection of powerful AI-powered automation agents built to streamline various business processes.
 
-## 📺 Agent Previews
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">DeskStock_AI</h3>
-        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/DeskStock_AI/DeskStock_AI.mp4">
-          <img src="https://via.placeholder.com/400x225?text=DeskStock_AI+Preview" width="100%" alt="DeskStock_AI Preview"/>
-          <p align="center">Click to watch demo video</p>
-        </a>
-      </td>
-      <td width="50%">
-        <h3 align="center">HireLens_AI</h3>
-        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/HireLens_AI/HireLens_AI.mp4">
-          <img src="https://via.placeholder.com/400x225?text=HireLens_AI+Preview" width="100%" alt="HireLens_AI Preview"/>
-          <p align="center">Click to watch demo video</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3 align="center">PyDrift_AI</h3>
-        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/PyDrift_AI/python_document_agent.mp4">
-          <img src="https://via.placeholder.com/800x225?text=PyDrift_AI+Preview" width="100%" alt="PyDrift_AI Preview"/>
-          <p align="center">Click to watch demo video</p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🤖 Overview
 
 This repository contains a suite of specialized AI agents designed to automate and enhance different business workflows. Each agent leverages state-of-the-art AI capabilities to provide intelligent solutions for specific domains.
