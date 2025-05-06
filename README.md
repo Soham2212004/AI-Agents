@@ -4,20 +4,34 @@ A collection of powerful AI-powered automation agents built to streamline variou
 
 ## 📺 Agent Previews
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 48%;">
-    <strong>DeskStock_AI</strong><br>
-    <video src="https://github.com/Soham2212004/AI-Agents/blob/main/DeskStock_AI/DeskStock_AI.mp4" controls width="100%"></video>
-  </div>
-  <div style="width: 48%;">
-    <strong>HireLens_AI</strong><br>
-    <video src="https://github.com/Soham2212004/AI-Agents/blob/main/HireLens_AI/HireLens_AI.mp4" controls width="100%"></video>
-  </div>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <strong>PyDrift_AI</strong><br>
-  <video src="https://github.com/Soham2212004/AI-Agents/blob/main/PyDrift_AI/python_document_agent.mp4" controls width="100%"></video>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">DeskStock_AI</h3>
+        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/DeskStock_AI/DeskStock_AI.mp4">
+          <img src="https://via.placeholder.com/400x225?text=DeskStock_AI+Preview" width="100%" alt="DeskStock_AI Preview"/>
+          <p align="center">Click to watch demo video</p>
+        </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">HireLens_AI</h3>
+        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/HireLens_AI/HireLens_AI.mp4">
+          <img src="https://via.placeholder.com/400x225?text=HireLens_AI+Preview" width="100%" alt="HireLens_AI Preview"/>
+          <p align="center">Click to watch demo video</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">PyDrift_AI</h3>
+        <a href="https://github.com/Soham2212004/AI-Agents/blob/main/PyDrift_AI/python_document_agent.mp4">
+          <img src="https://via.placeholder.com/800x225?text=PyDrift_AI+Preview" width="100%" alt="PyDrift_AI Preview"/>
+          <p align="center">Click to watch demo video</p>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🤖 Overview
