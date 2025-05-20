@@ -51,6 +51,21 @@ A developer assistant that keeps you updated with the latest Python documentatio
 
 **Use Case:** Essential for Python developers who need quick access to language documentation and version migration assistance.
 
+### 4. CodeSage_AI
+
+An AI-powered code enhancement assistant that automates the process of analyzing source code files and enriching them with meaningful comments. Built using n8n workflows and Gemini AI.
+
+**Key Features:**
+- Automatically fetches code files (e.g., `.py`, `.json`, `.tsx`, `.jsx`, etc.) from designated OneDrive folders  
+- Sends each file to Gemini AI to intelligently add line-by-line or block-level comments  
+- Preserves the original file name and extension after enhancement  
+- Processes each file one by one to ensure reliable and accurate results  
+- Uploads the enhanced files into a separate OneDrive folder for easy tracking and backup  
+- Works fully automated — no user input required during the process
+
+**Use Case:** Ideal for developers, tech educators, and software teams looking to improve code clarity, documentation quality, and collaboration. Perfect for onboarding new team members, creating annotated codebases, or cleaning up legacy projects without manually reviewing each file.
+
+
 ## 🔜 Coming Soon
 
 More specialized AI agents are under development! Stay tuned for additional tools that will help automate and enhance your business processes.
