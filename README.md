@@ -65,6 +65,28 @@ An AI-powered code enhancement assistant that automates the process of analyzing
 
 **Use Case:** Ideal for developers, tech educators, and software teams looking to improve code clarity, documentation quality, and collaboration. Perfect for onboarding new team members, creating annotated codebases, or cleaning up legacy projects without manually reviewing each file.
 
+### 5. InsightBoard_AI
+
+**InsightBoard_AI** is an AI-powered document analysis and data extraction workflow that transforms unstructured documents into structured CSV files using Gemini AI. Built using n8n workflows and Gemini AI integration.
+
+**Key Features:**
+- 📥 Automatically fetches document files (e.g., `.pdf`, `.docx`, `.txt`, etc.) from a connected OneDrive folder  
+- 📄 Downloads and extracts text content from each file  
+- 🧾 Combines all extracted text into a single input for efficient processing  
+- 🧠 Sends the combined text to Gemini AI to analyze and extract structured data  
+- 📊 Receives the processed output as a `.csv` file  
+- ☁️ Uploads the resulting CSV file to a specified OneDrive folder for easy access and further analysis  
+- 🔁 Fully automated — no manual input required throughout the process  
+
+**Use Case**
+InsightBoard_AI is ideal for:
+- Automating the conversion of reports, notes, and logs into structured data  
+- Streamlining document review and data extraction workflows for analysts and researchers  
+- Creating summarized and actionable data from large volumes of text-heavy files  
+- Enabling teams to quickly generate CSV-ready insights from multiple document formats without manual effort  
+
+Whether you're working with meeting transcripts, research papers, or business reports, InsightBoard_AI helps turn your documents into structured data for easier visualization, reporting, and decision-making.
+
 
 ## 🔜 Coming Soon
 
