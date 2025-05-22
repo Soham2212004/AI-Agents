@@ -87,6 +87,25 @@ InsightBoard_AI is ideal for:
 
 Whether you're working with meeting transcripts, research papers, or business reports, InsightBoard_AI helps turn your documents into structured data for easier visualization, reporting, and decision-making.
 
+### 6. AutoTutor_AI
+
+An AI-powered educational content generator that transforms study materials into comprehensive multiple-choice questions with detailed explanations. Built using n8n workflows and Google Gemini AI.
+
+**Key Features:**
+
+- Automatically fetches PDF documents from designated OneDrive folders  
+- Extracts text content from PDF files and processes them for AI analysis  
+- Uses Google Gemini AI to generate 10-15 multiple choice questions per subject  
+- Provides four answer options (A, B, C, D) with correct answers and detailed explanations  
+- Converts generated questions into professionally formatted PDF documents with clean styling  
+- Integrates seamlessly with Microsoft OneDrive for file management  
+- Works fully automated — no user input required during the process  
+
+**Use Case**
+
+Ideal for educators, students, and corporate trainers looking to create comprehensive test banks and practice questions from study materials. Perfect for generating quiz content from textbooks, course notes, or training documents without manually creating each question.
+
+
 
 ## 🔜 Coming Soon
 
