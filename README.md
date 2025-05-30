@@ -2,6 +2,43 @@
 
 A collection of powerful AI-powered automation agents built to streamline various business processes.
 
+## 🖼️ Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/HireLens_AI.png" width="300"/><br/>
+      <strong>HireLens_AI</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/DeskStock_AI.png" width="300"/><br/>
+      <strong>DeskStock_AI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/PyDrift_AI.png" width="300"/><br/>
+      <strong>PyDrift_AI</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/CodeSage_AI.png" width="300"/><br/>
+      <strong>CodeSage_AI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/InsightBoard_AI.png" width="300"/><br/>
+      <strong>InsightBoard_AI</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/AutoTutor_AI.png" width="300"/><br/>
+      <strong>AutoTutor_AI</strong>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🤖 Overview
 
 This repository contains a suite of specialized AI agents designed to automate and enhance different business workflows. Each agent leverages state-of-the-art AI capabilities to provide intelligent solutions for specific domains.
